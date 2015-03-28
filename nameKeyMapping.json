@@ -1,0 +1,371 @@
+{
+	"Aatrox" : {
+		"id" : 266
+	},
+	"Ahri" : {
+		"id" : 103
+	},
+	"Akali" : {
+		"id" : 84
+	},
+	"Alistar" : {
+		"id" : 12
+	},
+	"Amumu" : {
+		"id" : 32
+	},
+	"Anivia" : {
+		"id" : 34
+	},
+	"Annie" : {
+		"id" : 1
+	},
+	"Ashe" : {
+		"id" : 22
+	},
+	"Azir" : {
+		"id" : 268
+	},
+	"Blitzcrank" : {
+		"id" : 53
+	},
+	"Brand" : {
+		"id" : 63
+	},
+	"Braum" : {
+		"id" : 201
+	},
+	"Caitlyn" : {
+		"id" : 51
+	},
+	"Cassiopeia" : {
+		"id" : 69
+	},
+	"Cho'Gath" : {
+		"id" : 31
+	},
+	"Corki" : {
+		"id" : 42
+	},
+	"Darius" : {
+		"id" : 122
+	},
+	"Diana" : {
+		"id" : 131
+	},
+	"Dr. Mundo" : {
+		"id" : 36
+	},
+	"Draven" : {
+		"id" : 119
+	},
+	"Elise" : {
+		"id" : 60
+	},
+	"Evelynn" : {
+		"id" : 28
+	},
+	"Ezreal" : {
+		"id" : 81
+	},
+	"Fiddlesticks" : {
+		"id" : 9
+	},
+	"Fiora" : {
+		"id" : 114
+	},
+	"Fizz" : {
+		"id" : 105
+	},
+	"Galio" : {
+		"id" : 3
+	},
+	"Gangplank" : {
+		"id" : 41
+	},
+	"Garen" : {
+		"id" : 86
+	},
+	"Gnar" : {
+		"id" : 150
+	},
+	"Gragas" : {
+		"id" : 79
+	},
+	"Graves" : {
+		"id" : 104
+	},
+	"Hecarim" : {
+		"id" : 120
+	},
+	"Heimerdinger" : {
+		"id" : 74
+	},
+	"Irelia" : {
+		"id" : 39
+	},
+	"Janna" : {
+		"id" : 40
+	},
+	"Jarvan IV" : {
+		"id" : 59
+	},
+	"Jax" : {
+		"id" : 24
+	},
+	"Jayce" : {
+		"id" : 126
+	},
+	"Jinx" : {
+		"id" : 222
+	},
+	"Kalista" : {
+		"id" : 429
+	},
+	"Karma" : {
+		"id" : 43
+	},
+	"Karthus" : {
+		"id" : 30
+	},
+	"Kassadin" : {
+		"id" : 38
+	},
+	"Katarina" : {
+		"id" : 55
+	},
+	"Kayle" : {
+		"id" : 10
+	},
+	"Kennen" : {
+		"id" : 85
+	},
+	"Kha'Zix" : {
+		"id" : 121
+	},
+	"Kog'Maw" : {
+		"id" : 96
+	},
+	"LeBlanc" : {
+		"id" : 7
+	},
+	"Lee Sin" : {
+		"id" : 64
+	},
+	"Leona" : {
+		"id" : 89
+	},
+	"Lissandra" : {
+		"id" : 127
+	},
+	"Lucian" : {
+		"id" : 236
+	},
+	"Lulu" : {
+		"id" : 117
+	},
+	"Lux" : {
+		"id" : 99
+	},
+	"Malphite" : {
+		"id" : 54
+	},
+	"Malzahar" : {
+		"id" : 90
+	},
+	"Maokai" : {
+		"id" : 57
+	},
+	"Master Yi" : {
+		"id" : 11
+	},
+	"Miss Fortune" : {
+		"id" : 21
+	},
+	"Mordekaiser" : {
+		"id" : 82
+	},
+	"Morgana" : {
+		"id" : 25
+	},
+	"Nami" : {
+		"id" : 267
+	},
+	"Nasus" : {
+		"id" : 75
+	},
+	"Nautilus" : {
+		"id" : 111
+	},
+	"Nidalee" : {
+		"id" : 76
+	},
+	"Nocturne" : {
+		"id" : 56
+	},
+	"Nunu" : {
+		"id" : 20
+	},
+	"Olaf" : {
+		"id" : 2
+	},
+	"Orianna" : {
+		"id" : 61
+	},
+	"Pantheon" : {
+		"id" : 80
+	},
+	"Poppy" : {
+		"id" : 78
+	},
+	"Quinn" : {
+		"id" : 133
+	},
+	"Rammus" : {
+		"id" : 33
+	},
+	"Rek'Sai" : {
+		"id" : 421
+	},
+	"Renekton" : {
+		"id" : 58
+	},
+	"Rengar" : {
+		"id" : 107
+	},
+	"Riven" : {
+		"id" : 92
+	},
+	"Rumble" : {
+		"id" : 68
+	},
+	"Ryze" : {
+		"id" : 13
+	},
+	"Sejuani" : {
+		"id" : 113
+	},
+	"Shaco" : {
+		"id" : 35
+	},
+	"Shen" : {
+		"id" : 98
+	},
+	"Shyvana" : {
+		"id" : 102
+	},
+	"Singed" : {
+		"id" : 27
+	},
+	"Sion" : {
+		"id" : 14
+	},
+	"Sivir" : {
+		"id" : 15
+	},
+	"Skarner" : {
+		"id" : 72
+	},
+	"Sona" : {
+		"id" : 37
+	},
+	"Soraka" : {
+		"id" : 16
+	},
+	"Swain" : {
+		"id" : 50
+	},
+	"Syndra" : {
+		"id" : 134
+	},
+	"Talon" : {
+		"id" : 91
+	},
+	"Taric" : {
+		"id" : 44
+	},
+	"Teemo" : {
+		"id" : 17
+	},
+	"Thresh" : {
+		"id" : 412
+	},
+	"Tristana" : {
+		"id" : 18
+	},
+	"Trundle" : {
+		"id" : 48
+	},
+	"Tryndamere" : {
+		"id" : 23
+	},
+	"Twisted Fate" : {
+		"id" : 4
+	},
+	"Twitch" : {
+		"id" : 29
+	},
+	"Udyr" : {
+		"id" : 77
+	},
+	"Urgot" : {
+		"id" : 6
+	},
+	"Varus" : {
+		"id" : 110
+	},
+	"Vayne" : {
+		"id" : 67
+	},
+	"Veigar" : {
+		"id" : 45
+	},
+	"Vel'Koz" : {
+		"id" : 161
+	},
+	"Vi" : {
+		"id" : 254
+	},
+	"Viktor" : {
+		"id" : 112
+	},
+	"Vladimir" : {
+		"id" : 8
+	},
+	"Volibear" : {
+		"id" : 106
+	},
+	"Warwick" : {
+		"id" : 19
+	},
+	"Wukong" : {
+		"id" : 62
+	},
+	"Xerath" : {
+		"id" : 101
+	},
+	"Xin Zhao" : {
+		"id" : 5
+	},
+	"Yasuo" : {
+		"id" : 157
+	},
+	"Yorick" : {
+		"id" : 83
+	},
+	"Zac" : {
+		"id" : 154
+	},
+	"Zed" : {
+		"id" : 238
+	},
+	"Ziggs" : {
+		"id" : 115
+	},
+	"Zilean" : {
+		"id" : 26
+	},
+	"Zyra" : {
+		"id" : 143
+	}
+}
