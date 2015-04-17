@@ -16,11 +16,11 @@
 }
 #summoner_info {
     position: absolute;
-    top: 50%;
+    top: 57%;
     left: 50%;
     margin-top: 0px;
-    margin-left: -150px;
-    width: 300px;
+    margin-left: -500px;
+    width: 1000px;
     height: 100px;
 }
 #server_status {
